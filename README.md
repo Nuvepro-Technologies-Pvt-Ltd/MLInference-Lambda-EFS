@@ -36,11 +36,6 @@ Now, we are going to use a single SAM deployment to deploy this, which will crea
 
 ![Architecture Diagram](img/img2.png)
 
-# Demo Walkthrough
-
-Here is a quick walkthrough of the demo:
-
-![Video Walkthrough](video-walkthrough/demo.mp4)
 
 
 
